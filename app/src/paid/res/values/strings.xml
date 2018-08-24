@@ -1,0 +1,4 @@
+<resources>
+    <string name="message">Tell Joke</string>
+    <string name="display_a_joke">Press the button for display a paid joke</string>
+</resources>
