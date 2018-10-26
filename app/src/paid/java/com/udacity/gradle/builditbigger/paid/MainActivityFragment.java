@@ -21,21 +21,7 @@ public class MainActivityFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.activity_main_fragment, container, false);
-        // Set onClickListener for the button
-        Button joke_button = (Button) root.findViewById(R.id.joke_button);
-        joke_button.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                getJoke();
-            }
-        });
-
         return root;
     }
-    public void getJoke(){
-        Joker joker = new Joker();
 
-        Toast.makeText(getActivity(), joker.tellJoke(), Toast.LENGTH_SHORT).show();
-
-    }
 }

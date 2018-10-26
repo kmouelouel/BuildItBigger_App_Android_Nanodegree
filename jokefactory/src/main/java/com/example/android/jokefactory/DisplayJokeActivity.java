@@ -20,7 +20,7 @@ public class DisplayJokeActivity extends AppCompatActivity {
         if(jokeResult != null){
             displayJokeTextView.setText(jokeResult);
         }else {
-            displayJokeTextView.setText("Dig deeped, we gotta find the joke");
+            displayJokeTextView.setText(R.string.display_joke);
 
         }
     }

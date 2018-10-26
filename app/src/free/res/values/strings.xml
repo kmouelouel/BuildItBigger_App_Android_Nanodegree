@@ -1,5 +1,7 @@
 <resources>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="message">Tell Joke</string>
+
+    <string name="ad_app_id">ca-app-pub-7665140688185309~9146034348</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7665140688185309/2389054307</string>
+    <string name="message">Tell Joke from free version </string>
     <string name="display_a_joke">Press the button for display jokes for Free </string>
 </resources>

@@ -12,15 +12,6 @@
         <option name="BUILDABLE" value="true" />
       </configuration>
     </facet>
-    <facet type="app-engine-gradle" name="App Engine Gradle">
-      <configuration>
-        <option name="HTTP_ADDRESS" value="0.0.0.0" />
-        <option name="HTTP_PORT" value="8080" />
-        <option name="WAR_DIR" value="C:\Users\mouel\Desktop\ch4_l3_gradle\GradleFundamentals\FinalProject\backend\build\exploded-app" />
-        <option name="WEB_APP_DIR" value="C:\Users\mouel\Desktop\ch4_l3_gradle\GradleFundamentals\FinalProject\backend\src\main\webapp" />
-        <option name="APPENGINE_SDKROOT" value="C:\Users\mouel\.gradle\appengine-sdk\appengine-java-sdk-1.9.42" />
-      </configuration>
-    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
     <output url="file://$MODULE_DIR$/build/classes/java/main" />
